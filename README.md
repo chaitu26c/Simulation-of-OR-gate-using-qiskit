@@ -1,0 +1,1 @@
+# Simulation-of-OR-gate-using-qiskit
